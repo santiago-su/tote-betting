@@ -1,0 +1,16 @@
+{
+  "name": "tabcorp",
+  "version": "1.0.0",
+  "description": "Interview code test",
+  "main": "main.js",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Santiago Suarez",
+  "license": "ISC"
+}
